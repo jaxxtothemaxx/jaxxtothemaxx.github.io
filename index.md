@@ -5,3 +5,7 @@
 layout: single
 author_profile: true
 ---
+I am a **Technical Operations Manager** specializing in software delivery. I have a passion for optimizing workflows and using data to enhance productivity and efficiency.
+- Jira
+- GitHub
+- Sheets
