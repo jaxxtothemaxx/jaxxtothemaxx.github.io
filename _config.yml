@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Alex Black"
-  avatar : "/assets/images/business-cover.jpeg"
+  avatar : "/assets/images/business_cover.jpeg"
   bio    : "Technical Operator. Workflow Optimizer. Board Game Collector "
   links:
     - label: "Website"
